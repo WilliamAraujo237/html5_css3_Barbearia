@@ -1,0 +1,38 @@
+body{
+   background-color: rgba(171, 166, 166, 0.772); 
+}
+.titulo{
+    text-align: center;
+}
+.parte1{
+    background: #ccc;
+    border-radius: 3%;
+}
+#tamb{
+    width: 87%;
+    padding: 5%;
+    margin: 10px;
+    display: inline-block;
+}
+p {
+    text-align: center;
+}
+em strong{
+    color: red;
+}
+.parte2{
+    background-color: white;
+}
+.lista{
+    font-style: italic;
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin: 10%;
+}
+#beneficios_2_img{
+    width: 50%;
+    border-radius: 2%;
+}
