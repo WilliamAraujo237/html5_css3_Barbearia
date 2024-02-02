@@ -1,2 +1,2 @@
 Barbearia.
-O código a segui é uma aplicação voltada para uma barbearia, onde o usuário poderia entrar em contato, escolher procedimentos a serem realizados e horário de atendimento, o site foi todo desenvolvido em HTML:5 e CSS:3 com uma estética minimalista e leyout responsivo.
+A aplicação apresentada a seguir é projetada especificamente para barbearias, oferecendo aos usuários a facilidade de entrar em contato, selecionar serviços e marcar horários. O site foi integralmente criado utilizando HTML5 e CSS3, focando em um design minimalista e um layout adaptável a diferentes telas.
